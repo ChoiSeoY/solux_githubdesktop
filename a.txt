@@ -1,3 +1,2 @@
 Initial commit
 commit_1
-commit_2
